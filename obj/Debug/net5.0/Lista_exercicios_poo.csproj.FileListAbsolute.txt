@@ -1,0 +1,16 @@
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.exe
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.deps.json
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.runtimeconfig.json
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.runtimeconfig.dev.json
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.dll
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\ref\Lista_exercicios_poo.dll
+C:\Users\Desktop\Documents\Lista_exercicios_poo\bin\Debug\net5.0\Lista_exercicios_poo.pdb
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.csprojAssemblyReference.cache
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.AssemblyInfoInputs.cache
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.AssemblyInfo.cs
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.dll
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\ref\Lista_exercicios_poo.dll
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.pdb
+C:\Users\Desktop\Documents\Lista_exercicios_poo\obj\Debug\net5.0\Lista_exercicios_poo.genruntimeconfig.cache
